@@ -2,7 +2,7 @@ import ExpenseItem from './components/ExpenseItem';
 function App() {
   return (
     <div>
-      <h2>Title</h2>
+      <h2>Header</h2>
       <ExpenseItem></ExpenseItem>
     </div>
   );
