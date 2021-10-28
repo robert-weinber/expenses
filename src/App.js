@@ -1,5 +1,5 @@
-import Expenses from "./components/Expenses";
-function App() {
+import Expenses from "./components/Expenses/Expenses";
+const App = () => {
 
   const expense_data = [
     { title: "Oculus", amount: 230001, date: new Date(2021, 10, 5) },
